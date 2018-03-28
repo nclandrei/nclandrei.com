@@ -11,16 +11,13 @@
     
     
     <item>
-      <title>About Hugo</title>
+      <title>About me</title>
       <link>https://nclandrei.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nclandrei.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>I am a backend and distributed systems engineer currently based in Glasgow, UK. I am also a gopher studying at University of Glasgow and working on multiple open source repositories, some of which are:
+ DTSsistant - a Google Assistant app for the inhabitans of my beautiful hometown (Drobeta-Turnu Severin, Romania), where people can get answers regarding whatever is happening around the city: events, art exhibitions, interesting trivia about the city or the area etc.</description>
     </item>
     
   </channel>
