@@ -7,17 +7,17 @@
   </url>
   
   <url>
+    <loc>https://nclandrei.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nclandrei.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nclandrei.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nclandrei.com/</loc>
     <priority>0</priority>
   </url>
   
