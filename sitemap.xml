@@ -17,6 +17,15 @@
   </url>
   
   <url>
+    <loc>https://nclandrei.com/posts/go/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nclandrei.com/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nclandrei.com/tags/</loc>
     <priority>0</priority>
   </url>

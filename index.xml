@@ -20,5 +20,15 @@
  DTSsistant - a Google Assistant app for the inhabitans of my beautiful hometown (Drobeta-Turnu Severin, Romania), where people can get answers regarding whatever is happening around the city: events, art exhibitions, interesting trivia about the city or the area etc.</description>
     </item>
     
+    <item>
+      <title>First Post</title>
+      <link>https://nclandrei.com/posts/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nclandrei.com/posts/go/</guid>
+      <description>This is a simple test.
+199  // ... code   </description>
+    </item>
+    
   </channel>
 </rss>
