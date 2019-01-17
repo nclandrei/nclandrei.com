@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrei Nicolae</title>
+    <title>Andrei-Mihai Nicolae</title>
     <link>https://nclandrei.com/</link>
-    <description>Recent content on Andrei Nicolae</description>
+    <description>Recent content on Andrei-Mihai Nicolae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -16,8 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nclandrei.com/about/</guid>
-      <description>I am a backend and distributed systems engineer currently based in Glasgow, UK. I am also a gopher studying at University of Glasgow and working on multiple open source repositories, some of which are:
- DTSsistant - a Google Assistant app for the inhabitans of my beautiful hometown (Drobeta-Turnu Severin, Romania), where people can get answers regarding whatever is happening around the city: events, art exhibitions, interesting trivia about the city or the area etc.</description>
+      <description>I am a backend and distributed systems engineer currently based in Malmö, Sweden. This blog will contain various articles about software development, on topics such as systems programming, Go, Rust, cloud development or networking.
+I am also working on some open source projects, some of which are:
+ TicketGuru - a software project management tool that can analyze various issue trackers, such as Jira or Bugzilla; it can parse huge number of tickets, store them in various storage types (e.</description>
     </item>
     
     <item>
